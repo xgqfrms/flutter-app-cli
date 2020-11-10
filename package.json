@@ -1,0 +1,38 @@
+{
+  "name": "flutter-app-cli",
+  "version": "1.0.3",
+  "description": "flutter-app-cli",
+  "author": "xgqfrms",
+  "license": "MIT",
+  "keywords": [
+    "flutter-app-cli",
+    "flutter",
+    "app",
+    "cli"
+  ],
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "build/index.min.js",
+    ".editorconfig",
+    "package.json",
+    "LICENSE",
+    "README.md"
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xgqfrms/flutter-app-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xgqfrms/flutter-app-cli/issues"
+  },
+  "homepage": "https://github.com/xgqfrms/flutter-app-cli#readme",
+  "devDependencies": {
+    "app-node-env": "^1.3.5"
+  }
+}
